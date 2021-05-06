@@ -15,5 +15,5 @@ urllib3==1.25.8
 Werkzeug==1.0.0
 lxml==4.5.0
 pandas==1.0.2
-Flask-Cors==3.0.8
+Flask-Cors==3.0.9
 six==1.14.0
